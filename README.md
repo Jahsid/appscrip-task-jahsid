@@ -1,7 +1,7 @@
 # 🛍️ Modern Product Listing Page — Appscrip Task
 This project is a **Product Listing Page (PLP)** built using **Next.js (SSR)** and **Tailwind CSS**, focusing on **SEO optimization**, **responsive design**, and **minimal dependencies**.  
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-31 212933" src="https://github.com/user-attachments/assets/14914d84-4db6-44fb-9ec0-50c69693b49b" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-31 212933" src="https://github.com/user-attachments/assets/42a3ce3c-1df5-4932-b9c0-5f064ffed9df" />
 
 
 ---
@@ -104,6 +104,7 @@ appscrip-task/
    ```
 
 5. Open in your browser:
+   👉 [https://nextjs-shop.netlify.app/](https://nextjs-shop.netlify.app/)
    👉 [http://localhost:3000](http://localhost:3000)
 
 ---
